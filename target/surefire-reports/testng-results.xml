@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-16T11:56:22 EDT" name="DemoProject" finished-at="2021-04-16T11:57:07 EDT" duration-ms="44917">
+    <groups>
+      <group name="Smoke">
+        <method signature="DemoTest.SuccefulSearchForHondaPilot8_Passenger()[pri:0, instance:com.sample.test.demo.tests.DemoTest@18df8434]" name="SuccefulSearchForHondaPilot8_Passenger" class="com.sample.test.demo.tests.DemoTest"/>
+      </group> <!-- Smoke -->
+    </groups>
+    <test started-at="2021-04-16T11:56:22 EDT" name="Tests" finished-at="2021-04-16T11:57:07 EDT" duration-ms="44917">
+      <class name="com.sample.test.demo.tests.DemoTest">
+        <test-method is-config="true" signature="refresh()[pri:0, instance:com.sample.test.demo.tests.DemoTest@18df8434]" started-at="2021-04-16T11:56:22 EDT" name="refresh" finished-at="2021-04-16T11:56:39 EDT" duration-ms="16683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refresh -->
+        <test-method signature="SuccefulSearchForHondaPilot8_Passenger()[pri:0, instance:com.sample.test.demo.tests.DemoTest@18df8434]" started-at="2021-04-16T11:56:39 EDT" name="SuccefulSearchForHondaPilot8_Passenger" finished-at="2021-04-16T11:57:04 EDT" duration-ms="25068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuccefulSearchForHondaPilot8_Passenger -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sample.test.demo.tests.DemoTest@18df8434]" started-at="2021-04-16T11:57:05 EDT" name="tearDown" finished-at="2021-04-16T11:57:07 EDT" duration-ms="1738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sample.test.demo.tests.DemoTest -->
+    </test> <!-- Tests -->
+  </suite> <!-- DemoProject -->
+</testng-results>
